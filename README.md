@@ -8,7 +8,7 @@ Original Task was read as such: "Given this data, and any other information you 
 
 You can find a full presentation of these results at: [Coming Soon.  Maybe.  We'll See.]
 
-The related Tableau visualization: [TABLEAU VIS LINK]
+The related Tableau visualization: https://public.tableau.com/profile/terra1948#!/vizhome/GoogleTireAdAnalysis/CVVs_Measures
 
 Future improvements & questions:
 
